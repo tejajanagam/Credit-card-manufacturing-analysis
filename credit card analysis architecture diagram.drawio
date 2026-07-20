@@ -1,0 +1,120 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="B2td3HfKAaGZ0TPLq2uL">
+    <mxGraphModel dx="1042" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OGGuG-RiijJkvhsDSU6l-1" target="OGGuG-RiijJkvhsDSU6l-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="150" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-2" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;DATA COLLECTION&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-3" value="Data is collected from Card manufacturing company" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" parent="1" vertex="1">
+          <mxGeometry x="90" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OGGuG-RiijJkvhsDSU6l-5" target="OGGuG-RiijJkvhsDSU6l-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="195" />
+              <mxPoint x="410" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="290" y="150" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-7" value="LOAD THE DATA INTO DATABASE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#fa0505, #ededed);fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="280" y="110" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" parent="1" vertex="1">
+          <mxGeometry x="300" y="190" width="22.8" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.excel_services;" parent="1" vertex="1">
+          <mxGeometry x="330" y="185" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="150" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-12" value="EDA AND DATA CLEANING" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=light-dark(#ea0606, #ededed);" parent="1" vertex="1">
+          <mxGeometry x="512.5" y="110" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-14" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.editIcon;" parent="1" vertex="1">
+          <mxGeometry x="520" y="190" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-15" value="" style="image;html=1;image=img/lib/clip_art/computers/Data_Filtering_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="560" y="160" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-17" value="RAW DATA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="165" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.027;entryY=0.772;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OGGuG-RiijJkvhsDSU6l-10" target="OGGuG-RiijJkvhsDSU6l-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-19" value="CLEANED DATA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="225" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-20" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="285" y="240" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OGGuG-RiijJkvhsDSU6l-21" target="OGGuG-RiijJkvhsDSU6l-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-21" value="CLEANED DATA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OGGuG-RiijJkvhsDSU6l-22" target="OGGuG-RiijJkvhsDSU6l-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="340" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-24" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#FFD44F;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="290" y="365" width="33.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-25" value="Pandas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-26" value="Numpy&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-27" value="To find human errors and clean data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="425" y="375" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-28" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="510" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-46" value="" style="image;html=1;image=img/lib/clip_art/finance/Graph_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="290" y="535" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OGGuG-RiijJkvhsDSU6l-47" target="OGGuG-RiijJkvhsDSU6l-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-47" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.general.graph" parent="1" vertex="1">
+          <mxGeometry x="360" y="550" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-48" value="visualizing the data using matplotlib and seaborn to observe data deeply and generate insights like daily production ,error rate and machine usage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="530" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-49" value="" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#00188D;strokeColor=none;sketch=0;pointerEvents=1;shadow=0;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="475" width="220" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OGGuG-RiijJkvhsDSU6l-51" value="&lt;b&gt;For bettter decision making that helps managers plan resourses,reduce costs and&amp;nbsp; improve quality&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#e60f0f, #ededed);" parent="1" vertex="1">
+          <mxGeometry x="590" y="400" width="150" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="W3UyRyF1aQMmju7WJ4_O-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W3UyRyF1aQMmju7WJ4_O-2" value="CARD MANUFACTURING ANALYSIS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="40" width="230" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
